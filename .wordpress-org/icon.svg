@@ -1,0 +1,21 @@
+
+<svg width="138px" height="138px" viewBox="0 0 138 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="0%" id="partiallyGradient">
+            <stop stop-color="#6623E8" offset="0%"></stop>
+            <stop stop-color="#27D8D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-131.000000, -103.000000)" fill="url(#partiallyGradient)">
+            <g>
+                <g transform="translate(130.000000, 103.000000)">
+                    <g>
+                        <path d="M85,72 L126.625,72 C123.91,50.319 106.678,33.087 85,30.372 L85,72 Z M31.375,84 C34.09,105.681 51.322,122.913 73,125.628 L73,84 L31.375,84 Z M85,84 L85,125.628 C106.678,122.913 123.91,105.681 126.625,84 L85,84 Z M79,138 C45.916,138 19,111.084 19,78 L19,72 L73,72 L73,18 L79,18 C112.084,18 139,44.916 139,78 C139,111.084 112.084,138 79,138 L79,138 Z"></path>
+                        <path d="M13.4278,48 L48.9988,48 L48.9988,12.429 C30.6328,15.066 16.0648,29.634 13.4278,48 L13.4278,48 Z M60.9988,60 L0.9988,60 L0.9988,54 C0.9988,24.225 25.2238,0 54.9988,0 L60.9988,0 L60.9988,60 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
